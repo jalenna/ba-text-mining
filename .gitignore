@@ -6,3 +6,6 @@ __pycache__
 notebooks
 KEY*.ipynb
 lab_sessions/lab3/*/
+
+data
+.venv
